@@ -6,3 +6,5 @@
 
 ## Scripts
 Scripts were used to analyze and visualize the single-cell RNA-seq data.
+
+DOI: 10.5281/zenodo.15483616
