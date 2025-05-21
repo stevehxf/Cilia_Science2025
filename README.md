@@ -5,12 +5,4 @@
 ###### <sup>2</sup> E-mail: xih4001@med.cornell.edu
 
 ## Scripts
-#### NOTE: Run Script 1 first to load all the required libraries, helper scripts and colors.
-* Script 01: 
-* Script 02: 
-* Script 03: 
-* Script 04: 
-* Script 05: 
-
-
-## SessionInfo 
+Scripts were used to analyze and visualize the single-cell RNA-seq data.
